@@ -21,7 +21,7 @@ const Navigation = () => {
             <StyledLink href="#">Boliger til salg</StyledLink>
             <StyledLink href="#">Mæglere</StyledLink>
             <StyledLink href="#">Mine favoritter</StyledLink>
-            <StyledLink a href="#">Kontakt os</StyledLink>
+            <StyledLink href="#">Kontakt os</StyledLink>
         </StyledNavigation>
     )
 }

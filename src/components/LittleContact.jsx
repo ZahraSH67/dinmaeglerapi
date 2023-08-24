@@ -37,12 +37,12 @@ const LittleContact = () => {
 
             <StyledDiv1>
                 <StyledBiLogoTelegram />
-                <a href="mailto:4000@dinmaegler.com" class="icon">4000@dinmaegler.com</a>
+                <a href="mailto:4000@dinmaegler.com" className="icon">4000@dinmaegler.com</a>
             </StyledDiv1>
 
             <StyledDiv2>
                 <StyledBiPhone />
-                <a href="tel:+45 7070 4000" class="icon">+45 7070 4000</a>
+                <a href="tel:+45 7070 4000" className="icon">+45 7070 4000</a>
             </StyledDiv2>
 
         </StyledLittleContact>
